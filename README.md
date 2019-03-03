@@ -18,15 +18,19 @@ Hasil Latihan1
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/hasil%201.PNG)
 Hasil Latihan 1
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/hasil1%20part%201.PNG)
+setelah di tekan refresh
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/hasil1%20part%202.PNG)
 Hasil Latihan_1
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/hasil_1%20part%201.PNG)
+setelah di tekan refresh
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/hasil_1%20part%202.PNG)
 Hasil Latihan2
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/hasil2%20part%201.PNG)
+setelah di tekan refresh
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/hasil2%20part%202.PNG)
 Hasil Latihan 2
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/hasil%202%20part%201.PNG)
+setelah di tekan refresh
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/hasil%202%20part%202.PNG)
 Hasil Latihan 3
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/hasil%203.PNG)
