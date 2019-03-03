@@ -30,9 +30,13 @@ Hasil Latihan 2
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/hasil%202%20part%202.PNG)
 Hasil Latihan 3
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/hasil%203.PNG)
+bila username atau password salah
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/bila%20salah%20ketik.PNG)
+bila username atau password benar
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/bila%20benar.PNG)
 Hasil Latihan 4
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/latihan4_1.PNG)
+bila username atau password salah
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/latihan4_2.PNG)
+bila username atau password benar
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-11/blob/master/latihan4_3.PNG)
