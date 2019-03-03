@@ -10,8 +10,8 @@ Jawaban
       php pada saat sesi awal membuka sebuah halaman dan berlaku sampai anda menutup halaman tersebut.
   2. Bisa di hapus menggunakan kodingan pada php.
   3. -Cookies: Semisal saya membuat cookies dengan kode setcookie('font-size', '14px', time + (60 * 60), '/');
-               jadi cara menghapusnya itu menggunakan kode setcookie('font-size', '', 0, '/');.
-     -Session: -Cara membuatnya menggunakan kode session_start();
+               jadi cara menghapusnya itu menggunakan kode setcookie('font-size', '', 0, '/');.<br>
+     -Session: -Cara membuatnya menggunakan kode session_start();.<br>
                -Cara menghapusnya bisa menggunakan kode session_unset(); ataupun session_destroy();.
 
 Hasil Latihan1
