@@ -5,7 +5,7 @@ Soal
   3. Berikan contoh kode dari pembuatan dan menghapus cookies dan session!
   
 Jawaban
-  1. -Cookies adalah informasi yang disimpan di komputer klien dengan bantuan browser.
+  1. -Cookies adalah informasi yang disimpan di komputer klien dengan bantuan browser.<br>
      -Session dapat diartikan sebagai sebuah variabel global yang diciptakan dalam server 
       php pada saat sesi awal membuka sebuah halaman dan berlaku sampai anda menutup halaman tersebut.
   2. Bisa di hapus menggunakan kodingan pada php.
